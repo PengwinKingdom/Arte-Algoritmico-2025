@@ -3,12 +3,14 @@ using namespace std;
 
 int main()
 {
-    int n=5;
+    int n=8;
+    vector<string> emojis = {"✰","☻","❀","♡"};
     
     for(int i=0;i<n;i++){
-        for(int j=0;j<=i;j++){
+        string emoji = emojis[i%emojis.size()];
         
-            cout<<"✰";
+        for(int j=0;j<=i;j++){
+            cout<< emoji;
         }
         cout<<endl;
     }
