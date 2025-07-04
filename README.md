@@ -8,4 +8,4 @@ This repository contains the code developed for the **"Algorithmic Art"** challe
 - Pattern organization in the console
 - Algorithmic creativity
 
-ᕙ(  •̀ ᗜ •́  )ᕗ
+                                                 ᕙ(  •̀ ᗜ •́  )ᕗ
